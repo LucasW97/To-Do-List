@@ -9,9 +9,12 @@ Para adicionar uma nova atividade, basta digitar a atividade no campo de texto "
 
 ## Visualizando a lista de atividades
 A lista de atividades adicionadas será exibida na tela, abaixo do campo de texto "Nova Tarefa". 
+<img src= "https://github.com/LucasW97/To-Do-List/blob/main/fotos/2.png">
+<img src= "https://github.com/LucasW97/To-Do-List/blob/main/fotos/3.png">
 
 ## Excluindo uma atividade
 Para excluir uma atividade, basta clicar no botão "X" ao lado do nome da atividade correspondente. A atividade será removida da lista de atividades e de localstorage.
+<img src= "https://github.com/LucasW97/To-Do-List/blob/main/fotos/4.png">
 
 ## Armazenamento em Localstorage
 Todas as atividades adicionadas são salvas em localstorage, garantindo que nenhuma atividade seja perdida ao fechar o navegador. Quando o aplicativo é aberto novamente, as atividades são recuperadas de localstorage e exibidas na lista de atividades.
