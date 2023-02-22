@@ -2,9 +2,6 @@
 ## Apresentação
 Este é um aplicativo de To Do List simples que permite que o usuário crie, leia e delete atividades a serem realizadas. Todas as atividades são salvas em localstorage, garantindo que nenhuma atividade seja perdida ao fechar o navegador.
 
-## Pré-requisitos
-Para executar o aplicativo, é necessário ter instalado um navegador web moderno, como Google Chrome, Mozilla Firefox ou Safari.
-
 # Utilização
 ## Adicionando uma nova atividade
 Para adicionar uma nova atividade, basta digitar a atividade no campo de texto "Nova tarefa" e pressionar o botão "Adicionar Tarefa". A nova atividade será adicionada à lista de atividades e salva em localstorage.
