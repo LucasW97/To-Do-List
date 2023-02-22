@@ -14,6 +14,7 @@ A lista de atividades adicionadas será exibida na tela, abaixo do campo de text
 
 ## Excluindo uma atividade
 Para excluir uma atividade, basta clicar no botão "X" ao lado do nome da atividade correspondente. A atividade será removida da lista de atividades e de localstorage.
+
 <img src= "https://github.com/LucasW97/To-Do-List/blob/main/fotos/4.png">
 
 ## Armazenamento em Localstorage
