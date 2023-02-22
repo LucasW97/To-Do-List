@@ -5,6 +5,7 @@ Este é um aplicativo de To Do List simples que permite que o usuário crie, lei
 # Utilização
 ## Adicionando uma nova atividade
 Para adicionar uma nova atividade, basta digitar a atividade no campo de texto "Nova tarefa" e pressionar o botão "Adicionar Tarefa". A nova atividade será adicionada à lista de atividades e salva em localstorage.
+<img src= "https://github.com/LucasW97/To-Do-List/blob/main/fotos/1.png">
 
 ## Visualizando a lista de atividades
 A lista de atividades adicionadas será exibida na tela, abaixo do campo de texto "Nova Tarefa". 
